@@ -1,0 +1,16 @@
+D:\VS Projects\CodilityTest\CodilityTest\bin\Debug\net5.0\CodilityTest.exe
+D:\VS Projects\CodilityTest\CodilityTest\bin\Debug\net5.0\CodilityTest.deps.json
+D:\VS Projects\CodilityTest\CodilityTest\bin\Debug\net5.0\CodilityTest.runtimeconfig.json
+D:\VS Projects\CodilityTest\CodilityTest\bin\Debug\net5.0\CodilityTest.runtimeconfig.dev.json
+D:\VS Projects\CodilityTest\CodilityTest\bin\Debug\net5.0\CodilityTest.dll
+D:\VS Projects\CodilityTest\CodilityTest\bin\Debug\net5.0\ref\CodilityTest.dll
+D:\VS Projects\CodilityTest\CodilityTest\bin\Debug\net5.0\CodilityTest.pdb
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.csproj.AssemblyReference.cache
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.AssemblyInfoInputs.cache
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.AssemblyInfo.cs
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.csproj.CoreCompileInputs.cache
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.dll
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\ref\CodilityTest.dll
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.pdb
+D:\VS Projects\CodilityTest\CodilityTest\obj\Debug\net5.0\CodilityTest.genruntimeconfig.cache
