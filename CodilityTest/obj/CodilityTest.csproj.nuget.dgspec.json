@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS Projects\\CodilityTest\\CodilityTest\\CodilityTest.csproj": {}
+    "C:\\Users\\197363\\Documents\\Projetos\\codilityTraining\\CodilityTest\\CodilityTest.csproj": {}
   },
   "projects": {
-    "D:\\VS Projects\\CodilityTest\\CodilityTest\\CodilityTest.csproj": {
+    "C:\\Users\\197363\\Documents\\Projetos\\codilityTraining\\CodilityTest\\CodilityTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS Projects\\CodilityTest\\CodilityTest\\CodilityTest.csproj",
+        "projectUniqueName": "C:\\Users\\197363\\Documents\\Projetos\\codilityTraining\\CodilityTest\\CodilityTest.csproj",
         "projectName": "CodilityTest",
-        "projectPath": "D:\\VS Projects\\CodilityTest\\CodilityTest\\CodilityTest.csproj",
-        "packagesPath": "C:\\Users\\João Neto\\.nuget\\packages\\",
-        "outputPath": "D:\\VS Projects\\CodilityTest\\CodilityTest\\obj\\",
+        "projectPath": "C:\\Users\\197363\\Documents\\Projetos\\codilityTraining\\CodilityTest\\CodilityTest.csproj",
+        "packagesPath": "C:\\Users\\197363\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\197363\\Documents\\Projetos\\codilityTraining\\CodilityTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\João Neto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\197363\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localiza.pkgs.visualstudio.com/_packaging/LocalizaAtivos%40Local/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -52,12 +50,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
