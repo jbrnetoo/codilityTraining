@@ -1,7 +1,6 @@
-﻿using CodilityTest.Questions.Arrays;
-using CodilityTest.Questions.CountingElements;
-using CodilityTest.Questions.Prefix_Sums;
-using CodilityTest.Questions.TimeComplexity;
+﻿using CodilityTest.Questions.CountingElements;
+using CodilityTest.Questions.Leader;
+using CodilityTest.Questions.StacksQueues;
 using System;
 
 namespace CodilityTest
@@ -10,7 +9,7 @@ namespace CodilityTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(PassingCars.Solution(new int[] { 0, 1, 0, 1, 1 }));
+            Console.WriteLine(Dominator.Solution(new int[] { 3, 4, 3, 2, 3, -1, 3, 3 }));
         }
 
         public static void Print()
