@@ -6,7 +6,7 @@ namespace CodilityTest.Questions.TimeComplexity
 {
     public static class TapeEquilibrium
     {
-        public static int Solution(int[] A) 
+        public static int Solution(int[] A)
         {
             var somaArray = A.Sum();
             var leftSum = A[0];
@@ -35,7 +35,7 @@ namespace CodilityTest.Questions.TimeComplexity
             var rigthSum = A.Sum() - leftSum;
             var minDiference = Math.Abs(leftSum - rigthSum);
 
-            for (int P = 1; P < A.Length -1; P++)
+            for (int P = 1; P < A.Length - 1; P++)
             {
                 leftSum += A[P];
                 rigthSum -= A[P];

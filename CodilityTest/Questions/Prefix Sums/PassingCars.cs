@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace CodilityTest.Questions.Prefix_Sums
+﻿namespace CodilityTest.Questions.Prefix_Sums
 {
     public static class PassingCars
     {

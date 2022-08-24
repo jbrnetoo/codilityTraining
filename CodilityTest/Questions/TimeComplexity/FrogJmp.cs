@@ -12,7 +12,7 @@
             if (X < Y)
             {
                 int count = 0;
-                while(X < Y)
+                while (X < Y)
                 {
                     X += D;
                     count++;

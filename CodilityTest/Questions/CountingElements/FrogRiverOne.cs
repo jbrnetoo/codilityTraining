@@ -7,7 +7,7 @@
         public static int Solution(int X, int[] A)
         {
 
-            if(A[0] == X)
+            if (A[0] == X)
             {
                 return 0;
             }
